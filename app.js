@@ -1,5 +1,5 @@
 import { Component } from "react";
-
+import {product} form "./product"
 
 class App extends Component{
     render(){
